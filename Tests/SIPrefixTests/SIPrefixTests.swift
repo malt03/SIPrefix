@@ -124,8 +124,4 @@ final class SIPrefixTests: XCTestCase {
         XCTAssertEqual(formatter.format(-901_234_567), "-901.2M")
         XCTAssertEqual(formatter.format(-1_234_567_890), "-1234.6M")
     }
-
-    static var allTests = [
-        ("testDefaultFormatter", testDefaultFormatter),
-    ]
 }
