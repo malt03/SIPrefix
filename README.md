@@ -1,4 +1,4 @@
-# SIPrefix [![Build Status](https://github.com/malt03/SIPrefix/workflows/Test/badge.svg)](https://travis-ci.org/malt03/SIPrefix) [![SwiftPM compatible](https://img.shields.io/badge/SwiftPM-compatible-4BC51D.svg)](https://github.com/apple/swift-package-manager) ![Cocoapods](https://img.shields.io/cocoapods/v/SIPrefix) ![License](https://img.shields.io/github/license/malt03/SIPrefix.svg)
+# SIPrefix [![Build Status](https://github.com/malt03/SIPrefix/workflows/Test/badge.svg)](https://travis-ci.org/malt03/SIPrefix) [![SwiftPM compatible](https://img.shields.io/badge/SwiftPM-compatible-4BC51D.svg)](https://github.com/apple/swift-package-manager) ![License](https://img.shields.io/github/license/malt03/SIPrefix.svg)
 
 SIPrefix is a library for formatting numbers using [SI prefixes](https://en.wikipedia.org/wiki/Metric_prefix#List_of_SI_prefixes).
 
